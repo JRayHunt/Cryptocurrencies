@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Overview of the Analysis:
-The purpose of this project is to use machine learning to unsupervised learning models to evaluate cryptocurrency data to provide a recommendation to our client Accountability Accounting. We have been asked to analyze and group the cryptocurrencies on the market.
+The purpose of this project is to use unsupervised learning models to evaluate cryptocurrency data to provide a recommendation to our client Accountability Accounting. We have been asked to analyze and group the cryptocurrencies on the market.
 
 ### Technologies:
 The following unsupervised machine learning tools were employed in this project: 
